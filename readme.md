@@ -1,0 +1,1 @@
+This is the code implementation of the ECML-PKDD 2025 submission paper "LKD-KGC: Domain-Specific KG Construction via LLM-driven Knowledge Dependency Parsing"
