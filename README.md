@@ -1,3 +1,5 @@
+### Overview
+
 This is the code implementation of the ECML-PKDD 2025 submission paper "LKD-KGC: Domain-Specific KG Construction via LLM-driven Knowledge Dependency Parsing"
 
 ### Usage
@@ -8,7 +10,7 @@ This is the code implementation of the ECML-PKDD 2025 submission paper "LKD-KGC:
 !pip install -r requirements.txt  
 ```
 
-- **Data Preparation**: The preprocessed Prometheus documentation dataset used in the paper is stored in `./data/prometheus_documents/`. Users may also prepare their own datasets as input.
+- **Data Preparation**: The preprocessed Prometheus documentation dataset used in the paper is stored in `./data/prometheus_documents/` as example. Users may also prepare their own datasets as input.
 
 - **Running the Code**
 
